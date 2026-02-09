@@ -1,0 +1,22 @@
+2026-02-09 17:16:39,731 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:23:16,079 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:23:50,870 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:24:48,467 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:27:16,624 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:27:16,630 - data_ingestion - ERROR - error in train_test_spliter function
+2026-02-09 17:28:57,112 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:28:57,120 - data_ingestion - ERROR - error in train_test_spliter function
+2026-02-09 17:31:03,016 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:31:03,034 - data_ingestion - ERROR - error in train_test_spliter function
+2026-02-09 17:31:30,503 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:31:30,514 - data_ingestion - ERROR - error in train_test_spliter function
+2026-02-09 17:32:01,806 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:32:01,816 - data_ingestion - DEBUG - split the data into training and testing
+2026-02-09 17:32:11,068 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:32:11,077 - data_ingestion - DEBUG - split the data into training and testing
+2026-02-09 17:34:29,030 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:34:29,039 - data_ingestion - DEBUG - split the data into training and testing
+2026-02-09 17:34:29,084 - data_ingestion - DEBUG - Train and test data saved to ./data/raw
+2026-02-09 17:35:54,687 - data_ingestion - DEBUG - Data loaded from data/src/palmer_penguins.csv
+2026-02-09 17:35:54,696 - data_ingestion - DEBUG - split the data into training and testing
+2026-02-09 17:35:54,704 - data_ingestion - DEBUG - Train and test data saved to ./data/raw
