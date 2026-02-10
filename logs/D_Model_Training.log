@@ -1,0 +1,19 @@
+2026-02-10 17:37:08,649 - D_Model_training - ERROR - Failed to complete the model building process: name 'load_data' is not defined
+2026-02-10 17:37:29,862 - D_Model_training - ERROR - File not found: [Errno 2] No such file or directory: './data/processed/train_tfidf.csv'
+2026-02-10 17:37:29,862 - D_Model_training - ERROR - Failed to complete the model building process: [Errno 2] No such file or directory: './data/processed/train_tfidf.csv'
+2026-02-10 17:37:55,790 - D_Model_training - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (266, 4)
+2026-02-10 17:46:23,763 - D_Model_training - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (266, 4)
+2026-02-10 17:46:24,415 - D_Model_training - DEBUG - Max depth found while training the model
+2026-02-10 17:46:24,433 - D_Model_training - DEBUG - model has been trained
+2026-02-10 17:46:59,790 - D_Model_training - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (266, 4)
+2026-02-10 17:47:00,337 - D_Model_training - DEBUG - Max depth found while training the model
+2026-02-10 17:47:00,338 - D_Model_training - DEBUG - model has been trained
+2026-02-10 17:47:24,881 - D_Model_training - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (266, 4)
+2026-02-10 17:47:25,499 - D_Model_training - DEBUG - Max depth found while training the model
+2026-02-10 17:47:25,499 - D_Model_training - DEBUG - model has been trained
+2026-02-10 17:48:26,906 - D_Model_training - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (266, 4)
+2026-02-10 17:48:27,622 - D_Model_training - DEBUG - Max depth found while training the model
+2026-02-10 17:48:27,637 - D_Model_training - DEBUG - model has been trained with score on training data :1.0 
+2026-02-10 17:53:46,478 - D_Model_training - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (266, 4)
+2026-02-10 17:53:51,736 - D_Model_training - DEBUG - model has been trained with score on training data :0.9887218045112782 
+2026-02-10 17:53:51,736 - D_Model_training - DEBUG - Model saved to models/model.pkl
