@@ -1,18 +1,33 @@
-# Palmer Penguins Classification
 
-## Goal
 
-The goal of this project was to determine a small set of measurements that are highly predictive of a penguin's species.
+# branch -- main: 
 
-## Data Set
+    Here i have kept the project made by Theodore Nguyen as it was.
+    So main branch is just a fork of https://github.com/theodoretnguyen/palmer-penguins-classification
 
-The machine learning models were trained and evaluated on the [Palmer Penguins data set](https://allisonhorst.github.io/palmerpenguins/), which was collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. The CSV data contains measurements on three penguin species: Chinstrap, Gentoo, and Adelie.
+# branch main2:
 
-## Overview of Project
+    Built the pipeline out of main project and experiments/penguins-classification.ipynb
 
-- Exploratory Data Analysis
-- Modeling
-  - Logistic regression and cross validation were used for feature selection
-  - Model 1: Multinomial Logistic Regression
-  - Model 2: Decision Tree Classifier
-  - Model 3: Support Vector Machine
+    pipeline folder: "src" >
+
+            contains components of a pipeline
+
+            A_data_injestion 
+            B_preperation
+            C_feature_selection
+            D_model_training
+            E_model_evaluation
+
+    logs folder : "logs">
+            
+            contains logs for different components of pipeline
+
+    inputs/artifacts: 
+
+            /data
+            /models
+            /reports
+
+
+    
