@@ -1,0 +1,43 @@
+2026-02-11 17:26:40,261 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:26:40,291 - E_model_evaluation - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/processed/test_tfidf.csv'
+2026-02-11 17:26:40,302 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: './data/processed/test_tfidf.csv'
+2026-02-11 17:27:53,292 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:27:53,369 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:27:53,383 - E_model_evaluation - ERROR - Error during model evaluation: This 'SVC' has no attribute 'predict_proba'
+2026-02-11 17:27:53,385 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: This 'SVC' has no attribute 'predict_proba'
+2026-02-11 17:28:17,489 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:28:17,502 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:28:17,525 - E_model_evaluation - ERROR - Error during model evaluation: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:28:17,525 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:28:52,484 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:28:52,492 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:28:52,525 - E_model_evaluation - ERROR - Error during model evaluation: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:28:52,532 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:39:23,667 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:39:23,725 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:39:23,731 - E_model_evaluation - ERROR - Error during model evaluation: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:39:23,733 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:41:00,167 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:41:00,178 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:41:22,437 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:41:22,445 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:41:22,451 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:41:54,854 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:41:54,861 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:41:54,871 - E_model_evaluation - ERROR - Error during model evaluation: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:41:54,880 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:42:38,881 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:42:38,886 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:42:38,890 - E_model_evaluation - ERROR - Failed to complete the model evaluation process: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2026-02-11 17:43:14,665 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:43:14,671 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:46:17,322 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:46:17,329 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:46:17,354 - E_model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-11 17:46:17,386 - E_model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-02-11 17:46:17,386 - E_model_evaluation - DEBUG - report generated successfully
+2026-02-11 17:48:07,172 - E_model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-11 17:48:07,179 - E_model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv
+2026-02-11 17:48:07,202 - E_model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-11 17:48:07,205 - E_model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-02-11 17:48:07,205 - E_model_evaluation - DEBUG - report generated successfully

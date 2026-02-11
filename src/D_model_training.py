@@ -83,7 +83,7 @@ def train_model(X_train: np.ndarray, y_train: np.ndarray,) -> svm.SVC:
                 
         best_gamma, best_score
 
-        SVM = svm.SVC(gamma = best_gamma)
+        SVM = svm.SVC(gamma = best_gamma, kernel='rbf', C=1.0, probability=True)
 
         SVM.fit(X_train, y_train)
         
